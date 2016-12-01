@@ -1,3 +1,4 @@
+
 function StandardItem(name, sell_in, quality) {
   Item.call(this, name, sell_in, quality)
 }
